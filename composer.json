@@ -17,7 +17,7 @@
 
     "require": {
         "php": ">=7.0",
-        "pragmarx/support": "~0.6|~0.7|~0.8|~0.9",
+        "sunxyw/pragmarx-support": "dev-master",
         "ramsey/uuid": "^3 || ^4",
         "jenssegers/agent": "~2.1",
         "ua-parser/uap-php" : "~3.4",
